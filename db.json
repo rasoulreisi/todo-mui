@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "task1",
+      "description": "it is first task",
+      "status": 0
+    },
+    {
+      "id": 2,
+      "title": "task2",
+      "description": "it is second task",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "title": "task3",
+      "description": "it is third task",
+      "status": 2
+    },
+    {
+      "title": "task4",
+      "description": "it is a new task\n",
+      "status": 0,
+      "id": 4
+    }
+  ]
+}
